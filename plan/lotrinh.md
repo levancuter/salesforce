@@ -173,9 +173,9 @@ RẤT quan trọng (chiếm 12–20% bài thi)
 
 # 🎯 Bạn muốn mình tạo:
 
-✔ Lộ trình học **tùy chỉnh theo thời gian của bạn (1 tháng / 3 tháng)**  
-✔ Checklist từng ngày  
-✔ Bộ 200 câu PD1 mock exam (câu giải thích)  
+✔ Lộ trình học **tùy chỉnh theo thời gian của bạn (1 tháng / 3 tháng)**
+✔ Checklist từng ngày
+✔ Bộ 200 câu PD1 mock exam (câu giải thích)
 ✔ Gợi ý bài tập thực hành Apex + Trigger để luyện phỏng vấn/dev
 
 Bạn muốn học PD1 theo **tốc độ nhanh**, **chuẩn bài thi**, hay **vừa học vừa làm dự án**?
