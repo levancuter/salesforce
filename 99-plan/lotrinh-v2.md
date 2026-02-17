@@ -1,5 +1,3 @@
-Rất tốt.
-Mình sẽ thiết kế cho bạn một lộ trình **nghiêm túc – chuyên nghiệp – bám sát exam PD1**, nhưng vẫn thực tế để bạn có thể hoàn thành trong **4–5 tháng**.
 
 Vì bạn **không thi ADM 201**, nên lộ trình sẽ phải:
 
